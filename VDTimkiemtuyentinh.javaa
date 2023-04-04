@@ -1,0 +1,12 @@
+//https://dnmtechs.com/thuat-toan-tim-kiem-tuyen-tinh-tim-kiem-tuan-tu//
+ Đầu vào: mảng A[] = {10, 20, 80, 30, 60, 50, 
+                     110, 100, 130, 170}
+          x = 110;
+Đầu ra: 6
+Phần tử x có mặt ở vị trí số 6
+
+Đầu vào: mảng A[] = {10, 20, 80, 30, 60, 50, 
+                     110, 100, 130, 170}
+           x = 175;
+Đầu ra: -1
+Phần tử x không có trong mảng A[]
